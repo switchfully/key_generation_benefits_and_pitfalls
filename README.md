@@ -1,0 +1,3 @@
+The table definitions in create_tables.ddl and the insert statements in possible_insert_statements.sql are meant to show there is not a lot of benefit in defining default values for UUID primary key columns
+
+The table definitions in create_tables.ddl and the code in KeyGenerationApplication.java are meant to show the minor benefits which often do not outweigh the various pitfalls when using @GeneratedValue
